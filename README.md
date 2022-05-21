@@ -6,7 +6,9 @@
   - [Cybersecurity Quiz Game](https://github.com/kilahj/python-projects/blob/main/quiz_game.py)
   - [Number Guesser](https://github.com/kilahj/python-projects/blob/main/number_guesser)
   - [Rock, Paper, Scissors](https://github.com/kilahj/python-projects/blob/main/rock_paper_scissors)
-
+  
+<h2>👨‍💻 Certifications:</h2>
+  - [CompTIA Security+ ce SY0-601](https://www.credly.com/earner/earned/badge/1a17fb90-8dc2-4629-8d83-38e57f696953)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/kilahmanley/
